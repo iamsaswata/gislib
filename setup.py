@@ -44,7 +44,7 @@ setup(
     ],
     python_requires='>=3.0',
 
-    keywords='GIS, India, data, hydrology, remote-sensing, climate, cclimate change, water resources',
+    keywords='GIS, India, data, hydrology, remote-sensing, climate, climate change, water resources',
     # packages=['':'cct_nn'],
     install_requires=['matplotlib',
                       'numpy',
